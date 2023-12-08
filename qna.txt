@@ -1,0 +1,30 @@
+Who invented the telephone?,Thomas Edison,Alexander Graham Bell,Nikola Tesla,Guglielmo Marconi,2
+What is the national bird of the United States?,Peregrine Falcon,Bald Eagle,Blue Jay,Cardinal,2
+What is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,4
+Who is the author of the Harry Potter series?,J.R.R. Tolkien,George R.R. Martin,J.K. Rowling,Stephen King,3
+What is the chemical formula for water?,CO2,CH4,O2,H2O,4
+How many colors are there in a rainbow?,5,6,7,8,3
+Who discovered gravity?,Galileo Galilei,Isaac Newton,Nikola Tesla,Albert Einstein,2
+What is the largest organ in the human body?,Liver,Lung,Heart,Skin,4
+Who painted the Starry Night?,Claude Monet,Edvard Munch,Vincent van Gogh,Pablo Picasso,3
+What is the capital of Australia?,Sydney,Melbourne,Canberra,Perth,3
+What is the symbol for the element oxygen?,O,CO,OH,O2,1
+Who is the current president of the United States?,Barack Obama,Donald Trump,Joe Biden,George W. Bush,3
+What is the square root of 25?,3,4,5,6,3
+What is the chemical symbol for iron?,Fe,Fo,Fi,Fu,1
+Who wrote the novel Pride and Prejudice?,Jane Austen,Emily Brontë,Charlotte Brontë,Charles Dickens,1
+What is the largest animal on Earth?,Elephant,Blue whale,Giraffe,Lion,2
+Who is the author of the novel To Kill a Mockingbird?,Harper Lee,Ernest Hemingway,F. Scott Fitzgerald,Mark Twain,1
+What is the capital of Germany?,Vienna,Paris,Berlin,Madrid,3
+Who is the current Prime Minister of the United Kingdom?,David Cameron,Boris Johnson,Tony Blair,Theresa May,2
+What is the symbol for the element carbon?,C,Co,Ca,Cu,1
+What is the capital of France?,Berlin,London,Paris,Rome,3
+Who painted the Mona Lisa?,Pablo Picasso,Vincent van Gogh,Leonardo da Vinci,Claude Monet,3
+What is the largest planet in our solar system?,Mars,Saturn,Jupiter,Venus,3
+What is the chemical symbol for gold?,Ag,Fe,H2O,Au,4
+How many continents are there on Earth?,5,6,7,8,3
+Who wrote the play Romeo and Juliet?,Charles Dickens,Jane Austen,William Shakespeare,Mark Twain,3
+What is the highest mountain in the world?,Mount Kilimanjaro,Mount Everest,K2,Matterhorn,2
+Who is the current CEO of Tesla?,Jeff Bezos,Tim Cook,Elon Musk,Sundar Pichai,3
+What is the square root of 144?,10,12,14,16,2
+Which country is known for its maple syrup?,Sweden,Canada,Australia,Brazil,2
